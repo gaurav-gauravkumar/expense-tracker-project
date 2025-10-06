@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "amount": "500",
+      "name": "paneer Pizza",
+      "date": "2025-10-15",
+      "id": "e199"
+    },
+    {
+      "amount": "45",
+      "name": "Milk",
+      "date": "2025-10-01",
+      "id": "df75"
+    },
+    {
+      "amount": "50",
+      "name": "biscuit",
+      "date": "2025-10-06",
+      "id": "71e9"
+    },
+    {
+      "id": "3847",
+      "amount": "30",
+      "name": "Almond",
+      "date": "2025-10-07"
+    }
+  ]
+}
